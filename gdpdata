@@ -1,217 +1,435 @@
-Afghanistan,494.1793499
-Albania,5395.659532
-Algeria,3989.668276
-American Samoa,11715.36014
-Andorra,40897.33087
-Angola,2809.626088
-Antigua and Barbuda,17376.64968
-Argentina,10056.63794
-Armenia,4604.646324
-Aruba,..
-Australia,54875.28596
-Austria,50114.40111
-Azerbaijan,4805.753718
-"Bahamas, The",33799.41769
-Bahrain,23551.93009
-Bangladesh,1855.740094
-Barbados,18148.49785
-Belarus,6837.717826
-Belgium,46591.49161
-Belize,5078.809944
-Benin,1219.515506
-Bermuda,117098.4463
-Bhutan,3322.863329
-Bolivia,3552.068143
-Bosnia and Herzegovina,6119.762345
-Botswana,7203.064221
-Brazil,8897.552966
-British Virgin Islands,..
-Brunei Darussalam,31085.96193
-Bulgaria,9879.268533
-Burkina Faso,796.1152068
-Burundi,228.2135892
-Cabo Verde,3603.775241
-Cambodia,1643.121389
-Cameroon,1533.095688
-Canada,46338.34096
-Cayman Islands,91392.64259
-Central African Republic,467.9080323
-Chad,709.5400432
-Channel Islands,..
-Chile,14741.7144
-China,10143.83817
-Colombia,6424.979492
-Comoros,1401.542312
-"Congo, Dem. Rep.",580.7168706
-"Congo, Rep.",2369.729494
-Costa Rica,12693.82796
-Cote d'Ivoire,2276.332394
-Croatia,15311.7669
-Cuba,9125.878679
-Curacao,19701.27038
-Cyprus,29206.07672
-Czech Republic,23660.14881
-Denmark,59775.7351
-Djibouti,3414.916178
-Dominica,8516.280039
-Dominican Republic,8282.117131
-Ecuador,6222.524653
-"Egypt, Arab Rep.",3019.092283
-El Salvador,4167.730939
-Equatorial Guinea,8419.933336
-Eritrea,..
-Estonia,23397.12001
-Eswatini,3915.643467
-Ethiopia,855.7608852
-Faroe Islands,64225.2649
-Fiji,6175.890653
-Finland,48628.64176
-France,40578.64429
-French Polynesia,..
-Gabon,7766.996554
-"Gambia, The",772.0459142
-Georgia,4697.983652
-Germany,46794.89929
-Ghana,2246.625578
-Gibraltar,..
-Greece,19133.75776
-Greenland,53041.30331
-Grenada,10827.43529
-Guam,38040.58699
-Guatemala,4638.634943
-Guinea,1058.143368
-Guinea-Bissau,749.453747
-Guyana,6609.51128
-Haiti,1312.770636
-Honduras,2556.456891
-"Hong Kong SAR, China",48354.47337
-Hungary,16735.65978
-Iceland,68941.46223
-India,2100.751461
-Indonesia,4135.201531
-"Iran, Islamic Rep.",3114.622753
-Iraq,5980.626918
-Ireland,80886.61574
-Isle of Man,86481.55259
-Israel,43951.24773
-Italy,33641.63375
-Jamaica,5369.498371
-Japan,40777.6087
-Jordan,4405.487109
-Kazakhstan,9812.595808
-Kenya,1912.647867
-Kiribati,1601.861869
-"Korea, Dem. People's Rep.",..
-"Korea, Rep.",31936.79635
-Kosovo,4416.108358
-Kuwait,32373.25112
-Kyrgyz Republic,1374.032105
-Lao PDR,2635.800015
-Latvia,17926.84159
-Lebanon,7578.172368
-Lesotho,1113.37214
-Liberia,672.3404992
-Libya,7685.948132
-Liechtenstein,175813.8756
-Lithuania,19575.76848
-Luxembourg,113218.7133
-"Macao SAR, China",86197.36569
-Madagascar,522.9895243
-Malawi,591.8463896
-Malaysia,11432.823
-Maldives,10561.61351
-Mali,879.0431873
-Malta,30186.19596
-Marshall Islands,4073.10983
-Mauritania,1743.302901
-Mauritius,11097.16898
-Mexico,9950.45008
-"Micronesia, Fed. Sts.",3585.392449
-Moldova,4491.688827
-Monaco,189487.1471
-Mongolia,4404.84583
-Montenegro,8910.650834
-Morocco,3235.00066
-Mozambique,506.6416391
-Myanmar,1271.111575
-Namibia,5009.685904
-Nauru,11029.73558
-Nepal,1194.956876
-Netherlands,52476.27325
-New Caledonia,34788.52928
-New Zealand,42755.21626
-Nicaragua,1926.699694
-Niger,554.0993893
-Nigeria,2229.858652
-North Macedonia,6070.388054
-Northern Mariana Islands,20659.64029
-Norway,75719.7529
-Oman,17700.70349
-Pakistan,1288.556325
-Palau,15232.48708
-Panama,15774.25494
-Papua New Guinea,2820.306397
-Paraguay,5380.963322
-Peru,7027.612207
-Philippines,3485.340844
-Poland,15732.20313
-Portugal,23330.81729
-Puerto Rico,32850.54861
-Qatar,62276.42869
-Romania,12899.34611
-Russian Federation,11497.64925
-Rwanda,820.1492886
-Samoa,4322.868457
-San Marino,47731.20854
-Sao Tome and Principe,1987.579702
-Saudi Arabia,23139.79798
-Senegal,1430.148259
-Serbia,7417.203649
-Seychelles,16213.48076
-Sierra Leone,521.7548367
-Singapore,65640.70795
-Sint Maarten (Dutch part),..
-Slovak Republic,19303.54566
-Slovenia,25942.95477
-Solomon Islands,2344.048976
-Somalia,419.3948077
-South Africa,6624.761865
-South Sudan,..
-Spain,29555.3157
-Sri Lanka,3852.265603
-St. Kitts and Nevis,22046.68991
-St. Lucia,11591.08048
-St. Martin (French part),..
-St. Vincent and the Grenadines,7460.153362
-Sudan,610.9278615
-Suriname,6853.693411
-Sweden,51939.42974
-Switzerland,85334.51946
-Syrian Arab Republic,1334.370593
-Tajikistan,890.5444024
-Tanzania,1085.88486
-Thailand,7817.009671
-Timor-Leste,1583.713576
-Togo,893.3524541
-Tonga,4903.012138
-Trinidad and Tobago,16637.16294
-Tunisia,3574.654024
-Turkey,9121.515167
-Turkmenistan,7612.03518
-Turks and Caicos Islands,31350.86663
-Tuvalu,4055.89561
-Uganda,798.5857341
-Ukraine,3661.456204
-United Arab Emirates,42701.44305
-United Kingdom,43070.49836
-United States,65279.52903
-Uruguay,17688.01501
-Uzbekistan,1784.009816
-Vanuatu,3116.297759
-"Venezuela, RB",..
-Vietnam,2715.27598
-Virgin Islands (U.S.),38136.66576
-West Bank and Gaza,3656.858271
-"Yemen, Rep.",..
-Zambia,1305.001031
-Zimbabwe,1316.740657
+Afghanistan
+Albania
+Algeria
+American Samoa
+Andorra
+Angola
+Antigua and Barbuda
+Argentina
+Armenia
+Aruba
+Australia
+Austria
+Azerbaijan
+Bahamas, The
+Bahrain
+Bangladesh
+Barbados
+Belarus
+Belgium
+Belize
+Benin
+Bermuda
+Bhutan
+Bolivia
+Bosnia and Herzegovina
+Botswana
+Brazil
+British Virgin Islands
+Brunei Darussalam
+Bulgaria
+Burkina Faso
+Burundi
+Cabo Verde
+Cambodia
+Cameroon
+Canada
+Cayman Islands
+Central African Republic
+Chad
+Channel Islands
+Chile
+China
+Colombia
+Comoros
+Congo, Dem. Rep.
+Congo, Rep.
+Costa Rica
+Cote d'Ivoire
+Croatia
+Cuba
+Curacao
+Cyprus
+Czech Republic
+Denmark
+Djibouti
+Dominica
+Dominican Republic
+Ecuador
+Egypt, Arab Rep.
+El Salvador
+Equatorial Guinea
+Eritrea
+Estonia
+Eswatini
+Ethiopia
+Faroe Islands
+Fiji
+Finland
+France
+French Polynesia
+Gabon
+Gambia, The
+Georgia
+Germany
+Ghana
+Gibraltar
+Greece
+Greenland
+Grenada
+Guam
+Guatemala
+Guinea
+Guinea-Bissau
+Guyana
+Haiti
+Honduras
+Hong Kong SAR, China
+Hungary
+Iceland
+India
+Indonesia
+Iran, Islamic Rep.
+Iraq
+Ireland
+Isle of Man
+Israel
+Italy
+Jamaica
+Japan
+Jordan
+Kazakhstan
+Kenya
+Kiribati
+Korea, Dem. People's Rep.
+Korea, Rep.
+Kosovo
+Kuwait
+Kyrgyz Republic
+Lao PDR
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+Macao SAR, China
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Mauritania
+Mauritius
+Mexico
+Micronesia, Fed. Sts.
+Moldova
+Monaco
+Mongolia
+Montenegro
+Morocco
+Mozambique
+Myanmar
+Namibia
+Nauru
+Nepal
+Netherlands
+New Caledonia
+New Zealand
+Nicaragua
+Niger
+Nigeria
+North Macedonia
+Northern Mariana Islands
+Norway
+Oman
+Pakistan
+Palau
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Poland
+Portugal
+Puerto Rico
+Qatar
+Romania
+Russian Federation
+Rwanda
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Sint Maarten (Dutch part)
+Slovak Republic
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+South Sudan
+Spain
+Sri Lanka
+St. Kitts and Nevis
+St. Lucia
+St. Martin (French part)
+St. Vincent and the Grenadines
+Sudan
+Suriname
+Sweden
+Switzerland
+Syrian Arab Republic
+Tajikistan
+Tanzania
+Thailand
+Timor-Leste
+Togo
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Turks and Caicos Islands
+Tuvalu
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+Uruguay
+Uzbekistan
+Vanuatu
+Venezuela, RB
+Vietnam
+Virgin Islands (U.S.)
+West Bank and Gaza
+Yemen, Rep.
+Zambia
+Zimbabwe
+494.1793499
+5395.659532
+3989.668276
+11715.36014
+40897.33087
+2809.626088
+17376.64968
+10056.63794
+4604.646324
+..
+54875.28596
+50114.40111
+4805.753718
+33799.41769
+23551.93009
+1855.740094
+18148.49785
+6837.717826
+46591.49161
+5078.809944
+1219.515506
+117098.4463
+3322.863329
+3552.068143
+6119.762345
+7203.064221
+8897.552966
+..
+31085.96193
+9879.268533
+796.1152068
+228.2135892
+3603.775241
+1643.121389
+1533.095688
+46338.34096
+91392.64259
+467.9080323
+709.5400432
+..
+14741.7144
+10143.83817
+6424.979492
+1401.542312
+580.7168706
+2369.729494
+12693.82796
+2276.332394
+15311.7669
+9125.878679
+19701.27038
+29206.07672
+23660.14881
+59775.7351
+3414.916178
+8516.280039
+8282.117131
+6222.524653
+3019.092283
+4167.730939
+8419.933336
+..
+23397.12001
+3915.643467
+855.7608852
+64225.2649
+6175.890653
+48628.64176
+40578.64429
+..
+7766.996554
+772.0459142
+4697.983652
+46794.89929
+2246.625578
+..
+19133.75776
+53041.30331
+10827.43529
+38040.58699
+4638.634943
+1058.143368
+749.453747
+6609.51128
+1312.770636
+2556.456891
+48354.47337
+16735.65978
+68941.46223
+2100.751461
+4135.201531
+3114.622753
+5980.626918
+80886.61574
+86481.55259
+43951.24773
+33641.63375
+5369.498371
+40777.6087
+4405.487109
+9812.595808
+1912.647867
+1601.861869
+..
+31936.79635
+4416.108358
+32373.25112
+1374.032105
+2635.800015
+17926.84159
+7578.172368
+1113.37214
+672.3404992
+7685.948132
+175813.8756
+19575.76848
+113218.7133
+86197.36569
+522.9895243
+591.8463896
+11432.823
+10561.61351
+879.0431873
+30186.19596
+4073.10983
+1743.302901
+11097.16898
+9950.45008
+3585.392449
+4491.688827
+189487.1471
+4404.84583
+8910.650834
+3235.00066
+506.6416391
+1271.111575
+5009.685904
+11029.73558
+1194.956876
+52476.27325
+34788.52928
+42755.21626
+1926.699694
+554.0993893
+2229.858652
+6070.388054
+20659.64029
+75719.7529
+17700.70349
+1288.556325
+15232.48708
+15774.25494
+2820.306397
+5380.963322
+7027.612207
+3485.340844
+15732.20313
+23330.81729
+32850.54861
+62276.42869
+12899.34611
+11497.64925
+820.1492886
+4322.868457
+47731.20854
+1987.579702
+23139.79798
+1430.148259
+7417.203649
+16213.48076
+521.7548367
+65640.70795
+..
+19303.54566
+25942.95477
+2344.048976
+419.3948077
+6624.761865
+..
+29555.3157
+3852.265603
+22046.68991
+11591.08048
+..
+7460.153362
+610.9278615
+6853.693411
+51939.42974
+85334.51946
+1334.370593
+890.5444024
+1085.88486
+7817.009671
+1583.713576
+893.3524541
+4903.012138
+16637.16294
+3574.654024
+9121.515167
+7612.03518
+31350.86663
+4055.89561
+798.5857341
+3661.456204
+42701.44305
+43070.49836
+65279.52903
+17688.01501
+1784.009816
+3116.297759
+..
+2715.27598
+38136.66576
+3656.858271
+..
+1305.001031
+1316.740657
+
